@@ -1,1 +1,1 @@
-[{"id":1,"grupo":"CRM","sistema":"Importador","ultima":"2023-01-23 15:00","estado":"Ok","activo":1},{"ultima":null,"estado":null,"activo":0},{"id":2,"grupo":"CRM","sistema":"Cierre","ultima":null,"estado":null,"activo":0}]
+[{"id":"CRM_CIERRE","grupo":"CRM","sistema":"Cierre","ultima":null,"estado":null,"activo":0},{"id":"CRM_IMPORTADOR","grupo":"CRM","sistema":"Importador","ultima":null,"estado":null,"activo":0}]
