@@ -15,8 +15,8 @@ router.get('/', ({ response }) => {
 router
     .get('/mss', getSS)
     .post('/mss', postSS)
-    .post('/tick/:id', tickSS)
     .delete('/mss/:id', deleteSS)
-    .put('/mss/:id', putSS);
+    .put('/mss/:id', putSS)
+    .put('/tick/:id', tickSS);
 
 export default router;
