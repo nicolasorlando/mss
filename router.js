@@ -4,7 +4,7 @@ import getSS from './controllers/mss/get.js';
 import postSS from './controllers/mss/post.js';
 import deleteSS from './controllers/mss/delete.js';
 import putSS from './controllers/mss/put.js';
-import tickSS from './controllers/mss/tick.js';
+import tickSS from './controllers/tick/tick.js';
 
 const router = new Router();
 
